@@ -1,25 +1,13 @@
 # Привет, я Румак Вероника Денисовна 👋
 
 ## Обо мне
-- 🔭 В данный момент я ищу работу (стажировку)
-- 🌱 Я прошла курсы на Python-разработчика, оканчиваю 4 курс СГУ УЭТК на специальность Программиста
-- ⚡ Интересный факт: 9 лет играла в шахматы, занималась скалолазанием и ходила на стрельбу из воздушной винтовки
+- 🔭 В данный момент я ищу работу (стажировку) наи  программиста
+- 🌱 Окончила СГУ УЭТК на специальность Программиста
+- ⚡ Интересный факт: 9 лет играла в шахматы, стеснительна, но быстро обучаюсь и соображаю
 
 ## Навыки
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <!-- Python -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <!-- FastAPI -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <!-- Django -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <!-- PostgreSQL -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <!-- SQLite -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
-  <!-- SQLAlchemy -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
   <!-- C# -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <!-- WPF -->
@@ -32,16 +20,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MS SQL Server" alt="MS SQL Server" width="40" height="40"/>&nbsp;
   <!-- MS Visual Studio -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="MS Visual Studio" alt="MS Visual Studio" width="40" height="40"/>&nbsp;
-  <!-- Chatbot -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Chatbot" alt="Chatbot" width="40" height="40"/>&nbsp;
-</div>
 
-### Python
-- Языки программирования: Python
-- Фреймворки: FastAPI, Django Framework
-- Инструменты: PostgreSQL, SQLite, SQLAlchemy
-- Чаты: Создание чат-ботов
-
+## Основной упор в колледже был на язык C# и MS SQL 
 ### C#
 - Языки программирования: C#
 - Фреймворки: WPF, ADO.NET, .NET Framework
